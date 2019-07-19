@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d13d590.chunk.css",
+    "main.js": "/static/js/main.93409113.chunk.js",
+    "main.js.map": "/static/js/main.93409113.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.fede29d6.chunk.js": "/static/js/2.fede29d6.chunk.js",
+    "static/js/2.fede29d6.chunk.js.map": "/static/js/2.fede29d6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0bed60aff8a814db4449b42291009324.js": "/precache-manifest.0bed60aff8a814db4449b42291009324.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9d13d590.chunk.css.map": "/static/css/main.9d13d590.chunk.css.map",
+    "static/media/IMG_2811.jpg": "/static/media/IMG_2811.61272c5f.jpg",
+    "static/media/bruinracing.jpg": "/static/media/bruinracing.d41d5598.jpg",
+    "static/media/chexplain.gif": "/static/media/chexplain.9fed25d2.gif",
+    "static/media/ieee.gif": "/static/media/ieee.7480fd40.gif",
+    "static/media/mouse1.jpg": "/static/media/mouse1.9de18b70.jpg",
+    "static/media/resumewebsite.pdf": "/static/media/resumewebsite.309307ac.pdf",
+    "static/media/scrolldown.png": "/static/media/scrolldown.32efe70e.png"
+  }
+}
