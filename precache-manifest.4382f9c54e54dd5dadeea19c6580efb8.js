@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9242a8e9d297a36b7c83b87d69cc5d5",
+    "revision": "484887b4eac86def0dafb423cfe66f69",
     "url": "/index.html"
   },
   {
-    "revision": "5c353343dc65b2762bac",
+    "revision": "cff9f5ca8e7647fa852e",
     "url": "/static/css/main.730cd887.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.50e25b75.chunk.js"
   },
   {
-    "revision": "5c353343dc65b2762bac",
-    "url": "/static/js/main.93751537.chunk.js"
+    "revision": "cff9f5ca8e7647fa852e",
+    "url": "/static/js/main.3a7ce9f7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bruinracing.d41d5598.jpg"
   },
   {
-    "revision": "4ac1f7662775062ce85d7defce38ee03",
-    "url": "/static/media/chexplain2.4ac1f766.gif"
+    "revision": "28bdea21d5dc9854ff90cef300a31515",
+    "url": "/static/media/chexplain.28bdea21.gif"
   },
   {
     "revision": "3850500fd41ea928698fa4a8d57eda9d",
